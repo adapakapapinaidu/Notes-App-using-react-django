@@ -39,6 +39,6 @@ source env/bin/activate
 ```bash
 python manage.py runserver
 ```
+![Screenshot 2024-09-18 102913](https://github.com/user-attachments/assets/a8e5463f-d936-464a-8803-5714683851d5)
 
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
