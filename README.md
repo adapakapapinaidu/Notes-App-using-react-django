@@ -30,9 +30,14 @@ python -m venv env
 # If you are on Linux or Mac
 source env/bin/activate
 ```
+## front end
+## Changing the directory
+cd frontend
+## Install Dependencies
+npm install
 
-#
-
+## Start the Development Server
+npm start
 ### Running the App
 
 --> To run the Notes App, we use :
